@@ -1,0 +1,20 @@
+Homework Task props
+* use props to fit in the Hobby name ,description, and image url
+* create a component called hobbies.js and insert it into App.js
+* use jsx to add a h2 tag that says “my favorite hobby is..”
+* follow along with the wireframe to create 3 specialization cards
+
+Hobby 1
+Hobby Name: Running
+Image URL: Hobby Image
+Description: Description of hobby
+
+REACT PROPS
+function Hobbies(props){
+    return <div>
+    <h2>{props.hobby}</h2>
+    <p>{props.tel}<p>
+    <p>{props.email}</p>
+    </div>
+
+}
