@@ -5,9 +5,9 @@
 * Follow along with the wireframe to create 3 specialization cards.
 
 # Hobby 1
-Hobby Name: Running
-Image URL: Hobby Image
-Description: Description of hobby
++Hobby Name: Running
++Image URL: Hobby Image
++Description: Description of hobby
 
 # Live Site 
 [Hobbies Prop Homework Website](hobbiesprophomework.netlify.app)
